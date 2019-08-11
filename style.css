@@ -1,0 +1,13 @@
+.jumbotron	{
+    border: 3px outset grey;
+    background-color: burlywood;
+    background-size: 1450px;
+    text-indent:100px;
+    color:black;
+    text-align:center;
+};
+.panel-heading {
+    color: #fff;
+    background-color: #333;
+    border-color: #190b0b;
+};
